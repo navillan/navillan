@@ -13,11 +13,11 @@ Languages and Tools:
 <img src="https://camo.githubusercontent.com/d6f6c91f34b1c5e0d8a4bb5b5f10455e8c964b4aed57fd6a336a7bbce628c44f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66697265626173652e737667" width="30">
 <img src="https://camo.githubusercontent.com/d91962979dcb1c481e5cb2134d531bdef6ed6d1c4de6ea261b0fab6cc816635b/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f72656163742e737667" width="30">
 <img src="https://camo.githubusercontent.com/2eb077beace5f90cabb2a1cb97fde4ffa0f5f5fe32be54345cf364ed64f0c580/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f706f73746d616e2e737667" width="30">
-<p align="center">
+
 ![navillan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navillan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-</p>
-<p align="center">
+
+
 ![Codewars](https://github.r2v.ch/codewars?user=navilla&stroke=COLOR&hide_clan=true)
-</p>
+
 [LinkedIn](https://www.linkedin.com/in/mert-selamlar-83709b140)
 [Mail](mertselamlar@gmail.com)
