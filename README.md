@@ -18,7 +18,7 @@ Languages and Tools
 
 <p align="center">
 	<a href="https://github.com/navillan/github-readme-stats">
-	<img src="https://github-readme-stats.vercel.app/api?username=navillan&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navillan&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="GitHub Stats">
 	</a>
 </p>
 <p align="center">
