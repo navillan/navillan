@@ -15,9 +15,18 @@ Languages and Tools:
 <img src="https://camo.githubusercontent.com/2eb077beace5f90cabb2a1cb97fde4ffa0f5f5fe32be54345cf364ed64f0c580/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f706f73746d616e2e737667" width="30">
 
 ![navillan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navillan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
+<p align="center">
+	<a href="https://github.com/navillan/github-readme-stats">
+	<img src="https://github-readme-stats.vercel.app/api?username=navillan&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+	</a>
+</p>
 
 ![Codewars](https://github.r2v.ch/codewars?user=navilla&stroke=COLOR&hide_clan=true)
+<p align="center">
+	<a href="https://www.codewars.com/users/navilla">
+	<img src="https://github.r2v.ch/codewars?user=navilla&stroke=COLOR&hide_clan=true" alt="Codewars Stats">
+	</a>
+</p>
 
-<a href="https://linkedin.com/in/mert-selamlar-83709b140" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+<a href="https://linkedin.com/in/mert-selamlar-83709b140">LinkedIn</a>
 <a href="mailto:mertselamlar@gmail.com">mertselamlar@gmail.com</a>
