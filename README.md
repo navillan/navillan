@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://tenor.com/view/mr-spock-star-trek-star-trek-film-franchise-vulcan-salute-star-trek-the-original-series-gif-11774926984834803712">Mr-spock Star-trek GIF</a>
+	<img src="https://tenor.com/view/mr-spock-star-trek-star-trek-film-franchise-vulcan-salute-star-trek-the-original-series-gif-11774926984834803712" alt="Mr-spock Star-trek GIF">
 </p>
 <h2 align="center">Hello there 🖖, I'm Mert Selamlar</h2>
 
