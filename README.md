@@ -1,8 +1,10 @@
 <p align="center">
 ## Hello there 🖖, I'm Mert Selamlar
-
+</p>
+<p align="center">
 A passionate Front-End Developer from Istanbul, Turkey
 </p>
+
 Languages and Tools:
 <br/>
 <img src="https://camo.githubusercontent.com/6b8a65d4889db7ba2a2a0bae9f570c202cc386d37e218b22b9055531833bf4e6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667" width="30">
