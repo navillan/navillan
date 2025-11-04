@@ -1,6 +1,6 @@
-<p align="center">
-<h2>Hello there 🖖, I'm Mert Selamlar</h2>
-</p>
+
+<h2 align="center">Hello there 🖖, I'm Mert Selamlar</h2>
+
 <p align="center">
 A passionate Front-End Developer from Istanbul, Turkey
 </p>
