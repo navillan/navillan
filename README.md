@@ -29,5 +29,6 @@ Languages and Tools
 </br>
 <p align="center">
 	<a href="https://linkedin.com/in/mert-selamlar-83709b140">LinkedIn</a>
+	 | 
 	<a href="mailto:mertselamlar@gmail.com">mertselamlar@gmail.com</a>	
 </p>
