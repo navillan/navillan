@@ -1,5 +1,5 @@
 <p align="center">
-## Hello there 🖖, I'm Mert Selamlar
+<h2>Hello there 🖖, I'm Mert Selamlar</h2>
 </p>
 <p align="center">
 A passionate Front-End Developer from Istanbul, Turkey
