@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFmZGYwMWJldzM3aXJuMW03azVja3luemdubWVqbGxyNmhoazk0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IL4iTvQH0MjS/giphy.gif" alt="Mr-spock Star-trek GIF" width="20">
+	<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFmZGYwMWJldzM3aXJuMW03azVja3luemdubWVqbGxyNmhoazk0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IL4iTvQH0MjS/giphy.gif" alt="Mr-spock Star-trek GIF" width="40">
 </p>
 <h2 align="center">Hello there 🖖, I'm Mert Selamlar</h2>
 
