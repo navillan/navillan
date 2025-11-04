@@ -23,7 +23,7 @@ Languages and Tools
 </p>
 <p align="center">
 	<a href="https://www.codewars.com/users/navilla">
-	<img src="https://github.r2v.ch/codewars?user=navilla&stroke=COLOR&hide_clan=true" alt="Codewars Stats">
+	<img src="https://github.r2v.ch/codewars?user=navilla&stroke=COLOR&hide_clan=true&top_languages=true" alt="Codewars Stats">
 	</a>
 </p>
 </br>
