@@ -6,7 +6,7 @@ A passionate Front-End Developer from Istanbul, Turkey
 </p>
 
 Languages and Tools:
-<br/><br/>
+<br/>
 <img src="https://camo.githubusercontent.com/6b8a65d4889db7ba2a2a0bae9f570c202cc386d37e218b22b9055531833bf4e6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667" width="30">
 <img src="https://camo.githubusercontent.com/0c8bcc2a2681603f64cac3ee4b1ddd27d0e88ca691674cfeff51207537aa121a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f637373332e737667" width="30" >
 <img src="https://camo.githubusercontent.com/5a5f5779919b90579d121551d0521cda87c06534a0218a2f21883c438daf6cc1/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667" width="30">
@@ -19,5 +19,5 @@ Languages and Tools:
 
 ![Codewars](https://github.r2v.ch/codewars?user=navilla&stroke=COLOR&hide_clan=true)
 
-[LinkedIn](https://www.linkedin.com/in/mert-selamlar-83709b140)
-[Mail](mertselamlar@gmail.com)
+<a href="https://linkedin.com/in/mert-selamlar-83709b140" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+<a href="mailto:mertselamlar@gmail.com">mertselamlar@gmail.com</a>
