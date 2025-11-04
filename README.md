@@ -1,8 +1,10 @@
-
+<p align="center">
+	<a href="https://tenor.com/view/mr-spock-star-trek-star-trek-film-franchise-vulcan-salute-star-trek-the-original-series-gif-11774926984834803712">Mr-spock Star-trek GIF</a>
+</p>
 <h2 align="center">Hello there 🖖, I'm Mert Selamlar</h2>
 
 <p align="center">
-A passionate Front-End Developer from Istanbul, Turkey
+	A passionate Front-End Developer from Istanbul, Turkey
 </p>
 <p align="center">
 Languages and Tools
