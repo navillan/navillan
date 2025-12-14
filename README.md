@@ -32,7 +32,7 @@ Languages and Tools
 
 <p align="center">
 	<a href="https://leetcode.com/u/navilla/">
-	<img src="https://leetcard.jacoblin.cool/navilla?theme=nord&font=Prompt" alt="LeetCode Stats">
+	<img src="https://leetcard.jacoblin.cool/navilla?theme=dark&font=Open%20Sans&colors=%2342423E%2C%20%20%23525252%2C%20%23DE4721" alt="LeetCode Stats">
 	</a>
 </p>
 </br>
