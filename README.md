@@ -29,6 +29,13 @@ Languages and Tools
 	</a>
 </p>
 </br>
+
+<p align="center">
+	<a href="https://leetcode.com/u/navilla/">
+	<img src="https://leetcard.jacoblin.cool/navilla?theme=dark&font=Prompt" alt="LeetCode Stats">
+	</a>
+</p>
+</br>
 <p align="center">
 	<a href="https://linkedin.com/in/mert-selamlar-83709b140">LinkedIn</a>
 	 | 
